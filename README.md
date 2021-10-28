@@ -1,7 +1,9 @@
 # Chop Chop! 
 
 ## Overview
-“We already have food at home!” Everyone’s heard it but how many people can actually whip up a meal from the array of ingredients at home? Introducing Chop Chop! Our app will allow you to choose ingredients in your pantry or fridge and give you recipes to make. 
+“We already have food at home!” Everyone’s heard it but how many people can actually whip up a meal from the array of ingredients at home? Introducing Chop Chop! 
+
+Chop Chop! is an iOS mobile app that allows users to choose ingredients in their pantry or fridge and give them recipes to make. Recipes are suggested to the user if they have some or all of the ingredients necessary to make the dish. Also, the app can generate a grocery list of missing ingredients to make a dish.
 
 With Chop Chop you can find new recipes with even the most unrelated ingredients. Our app will also allow you to choose recipes from our database and display the ingredients.
 
@@ -24,5 +26,5 @@ With Chop Chop you can find new recipes with even the most unrelated ingredients
 <img src="wireframes/list.png" width="250">
 
 
-## Members
+## Creators
 Matthew Rodgers, Elliot Waxman
