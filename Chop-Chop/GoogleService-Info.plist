@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>558826467576-0172hghe3hd45egqj0jvpmppmmt0n9ts.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.558826467576-0172hghe3hd45egqj0jvpmppmmt0n9ts</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsxfd5OGnvJj_YNANCy04-TczFt598l4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>558826467576</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.seul.Chop-Chop</string>
+	<key>PROJECT_ID</key>
+	<string>chop-chop-25bce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chop-chop-25bce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:558826467576:ios:4ca7601f567dac3fd74b0d</string>
+	<key>DATABASE_URL</key>
+	<string>https://chop-chop-25bce.firebaseio.com</string>
+</dict>
+</plist>
